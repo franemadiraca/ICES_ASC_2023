@@ -23,6 +23,6 @@ decided to create a video presentation. Given that in my spare
 time I enjoy photography and videography, I wanted to see if I 
 could utilize what I learned through these hobbies and showcase 
 the beauty of the Baltic Sea and provide an interesting medium 
-for our research. I sincerely hope that you will enjoy it.
+for presenting our research. I sincerely hope that you will enjoy it.
 
 Frane Madiraca
