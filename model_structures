@@ -1,0 +1,15 @@
+STRUCTURE OF MODELS
+
+Median length model
+-------------------
+Covariate structure: Salinity + Oxygen + Temperature + s(Depth)
+Distribution family: Lognormal(link = "log")
+Spatial fields: OFF
+Spatio-temporal fields: AR1
+
+Functional richness model
+-------------------------
+Covariate structure: s(Salinity) + s(Oxygen) + Temperature + s(Depth) + Chlorophyll a
+Distribution family: Gaussian(link = "identity")
+Spatial fields: OFF
+Spatio-temporal fields: AR1
