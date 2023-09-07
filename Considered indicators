@@ -1,0 +1,51 @@
+Here is a list of the all indicators tested with INDperform 
+and considered for modelling under the effects of climate change:
+
+STRUCTURAL
+----------
+CPUE of Pleuronectiformes
+CPUE of Gadiformes
+CPUE of Clupeiformes
+CPUE of Atlantic cod
+CPUE of Whiting
+CPUE of Atlantic herring
+CPUE of European sprat
+CPUE of European flounder
+CPUE of European plaice
+CPUE of Common dab
+Mean CPUE in the fish community
+Median length in the fish community
+Species richness
+Shannon-Weiner Species Diversity Index
+Pielou's Evenness Index
+Large fish indicator of fish community, > 30 cm
+Large fish indicator of fish community without Atlantic cod, > 30 cm
+Large fish indicator of Atlantic cod, > 30 cm
+Large fish indicator of fish community, > 58 cm
+Large fish indicator of fish community without Atlantic cod, > 58 cm
+Large fish indicator of Atlantic cod, > 58 cm
+
+
+FUNCTIONAL
+----------
+Functional richness
+Functional evennes
+Functional divergence
+Functional dispersion
+Functional redundancy
+Functional imbalance
+Rao's quadratic entropy in the fish community
+CPUE of functional group 1
+CPUE of functional group 2
+CWM of eye diameter
+CWM of trophic level
+CWM of aspect ratio of caudal fin
+CWM of offspring size
+CWM of age of maturity
+CWM of fecundity
+CWM of growth coefficient
+CWM of maximum length
+CWM of preffered temperature
+
+* CPUE = Catch per unit of effort
+* CWM = Community weighted mean
