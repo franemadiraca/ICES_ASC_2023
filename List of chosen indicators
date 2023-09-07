@@ -1,0 +1,20 @@
+Here is a list of the indicators chosen with INDperform to be
+modelled under the effect of climate change:
+
+STRUCTURAL
+----------
+CPUE of Pleuronectiformes
+CPUE of Clupeiformes
+CPUE in the fish community
+Median length in the fish community
+
+FUNCTIONAL
+----------
+Functional richness in the fish community
+Rao's quadratic entropy in the fish community
+CWM of offspring size in the fish community
+CWM of fecundity in the fish community
+CWM of preffered temperature in the fish community
+
+* CPUE = Catch per unit of effort
+* CWM = Community weighted mean
